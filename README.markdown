@@ -1,6 +1,6 @@
 # WeezLabs Swift Style Guide.
 
-This guide is based on [Ray Wenderlich Style Guide](https://github.com/raywenderlich/swift-style-guide). 
+This guide is based on [Ray Wenderlich's Swift Style Guide](https://github.com/raywenderlich/swift-style-guide). 
 
 ## Table of Contents
 
